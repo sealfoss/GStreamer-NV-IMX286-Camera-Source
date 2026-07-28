@@ -52,6 +52,13 @@ inside a normal GStreamer source.
 ## Build & install (native, on the Jetson)
 
 ```bash
+./install.sh          # dependency preflight -> build -> sudo install -> verify
+```
+
+(`./install.sh --help` for `--prefix`, `--plugin-dir`, `--build-only`,
+`--uninstall`.) Or by hand:
+
+```bash
 mkdir -p build && cd build
 cmake .. && make -j$(nproc)
 sudo make install
