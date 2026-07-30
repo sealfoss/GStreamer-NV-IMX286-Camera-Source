@@ -172,7 +172,7 @@ anchor.
 
 ## License
 
-GPL-2.0 (see [LICENSE](LICENSE)). Color science derived from the Raspberry
+MIT (see [LICENSE](LICENSE)). Color science derived from the Raspberry
 Pi / libcamera tuning data and pipeline model; NVMM buffer conventions from
 NVIDIA's gst-nvv4l2camera/gst-nvarguscamera sources.
 
