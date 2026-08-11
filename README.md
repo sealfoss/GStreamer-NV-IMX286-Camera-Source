@@ -1,3 +1,8 @@
+# I screwed up and mis-named this repo. You are probably looking for this one:
+
+[nvimx296camerasrc](https://github.com/sealfoss/GStreamer-NV-IMX296-Camera-Source)
+
+
 # nvimx296camerasrc
 
 GStreamer source element for the Raspberry Pi Global Shutter Camera (Sony
